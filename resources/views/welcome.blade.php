@@ -124,7 +124,7 @@
         </div>
     </section>
 
-    ---
+
 
     <section id="fitur" class="py-16 bg-white mx-4 mt-8 rounded-2xl shadow-lg">
         <div class="container mx-auto px-6">
@@ -176,7 +176,7 @@
         </div>
     </section>
 
-    ---
+
 
     <section id="tentang" class="py-16 bg-gray-100 mx-4 mt-8 rounded-2xl shadow-lg">
         <div class="container mx-auto px-6 text-center">
@@ -190,7 +190,6 @@
         </div>
     </section>
 
-    ---
 
     <section class="bg-green-700 text-white py-16 mx-4 mt-8 rounded-2xl shadow-xl">
         <div class="container mx-auto px-6 text-center">
@@ -200,7 +199,7 @@
         </div>
     </section>
 
-    ---
+
 
     <section id="kontak" class="py-16 bg-white mx-4 mt-8 rounded-2xl shadow-lg mb-8">
         <div class="container mx-auto px-6">
