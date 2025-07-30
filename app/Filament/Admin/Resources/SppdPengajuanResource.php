@@ -78,9 +78,7 @@ class SppdPengajuanResource extends Resource
                         Forms\Components\TextInput::make('estimasi_biaya')
                             ->label('Estimasi Biaya')
                             ->numeric()
-                            ->prefix('Rp')
-                            ->mask('999.999.999.999')
-                            ->stripCharacters(','),
+                            ->prefix('Rp'),
                         Forms\Components\FileUpload::make('dokumen_pendukung')
                             ->label('Dokumen Pendukung (PDF)')
                             ->disk('public')
